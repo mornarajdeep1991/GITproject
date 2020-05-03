@@ -3,7 +3,6 @@
  * @when    : 13/03/2019
  * @what    : Controller for the upload document functionality for the specific account id passed in the URL
  */
-
 public without sharing class BrokerDocumentsController{
 
     public List<Document__c> docLists{get;set;}
